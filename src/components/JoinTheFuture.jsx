@@ -3,10 +3,10 @@ import Slider from "react-slick";
 
 
 const logos = [
-    "https://dummyimage.com/120x60/ffffff/aaa", 
-    "https://dummyimage.com/120x60/ffffff/aaa",
-    "https://dummyimage.com/120x60/ffffff/aaa",
-    "https://dummyimage.com/120x60/ffffff/aaa",
+  "/hero.svg", 
+  "/hero.svg",
+  "/hero.svg",
+  "/hero.svg"
   ];
 
 const JoinTheFuture = () => {
